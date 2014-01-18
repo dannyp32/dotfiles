@@ -28,6 +28,7 @@ set title
 set wildmenu
 set wildmode=list:longest,full
 set wildignore=*.o,*.obj,*.bak,*.exe,*.py[co],*.swp,*~,*.pyc,.svn
+set cc=80
 
 imap jj <esc>
 map :tabp <F7>
